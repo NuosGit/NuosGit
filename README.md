@@ -42,13 +42,6 @@
 
 ###
 
-<table align="center" cellpadding="10">
-    <tr>
-        <td align="center" valign="top">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuosgit&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000" alt="Most Used Languages" height="180" />
-        </td>
-        <td align="center" valign="top">
-            <img src="https://github-readme-stats.vercel.app/api?username=nuosgit&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="Nuos' GitHub Stats" height="180" />
-        </td>
-    </tr>
-</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuosgit&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&card_height=100&card_width=200" alt="nuosgit" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuosgit&show_icons=true&locale=en&theme=dark&bg_color=000000&card_height=100&card_width=200" alt="nuosgit" /></p>
