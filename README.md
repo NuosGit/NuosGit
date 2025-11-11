@@ -42,6 +42,6 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuosgit&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000" alt="nuosgit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuosgit&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=35000" alt="nuosgit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuosgit&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="nuosgit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuosgit&show_icons=true&locale=en&theme=dark&bg_color=35000" alt="nuosgit" /></p>
