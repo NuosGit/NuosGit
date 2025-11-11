@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">Languages / Stuffs (That I might know ❓) :</h3>
+<h3 align="center">Languages / Stuffs (That I might know ❓) :</h3>
     <p align="left"> 
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -42,6 +42,6 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuosgit&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000" alt="nuosgit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuosgit&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&card_width=400" alt="nuosgit" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuosgit&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="nuosgit" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nuosgit&show_icons=true&locale=en&theme=dark&bg_color=000000&card_width=400" alt="nuosgit" /></p>
