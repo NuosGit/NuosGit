@@ -5,7 +5,7 @@
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.webp" type="image/webp">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" alt="🦉" width="50" height="50">
     </picture>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&pause=2000&color=F74242&center=true&vCenter=true&width=400&height=40&lines=Hi%2C+I'm+Nuos+%3AD" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&pause=2000&color=F74242&center=true&vCenter=true&width=350&height=50&lines=Hi%2C+I'm+Nuos+%3AD" alt="Typing SVG" /></a>
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.webp" type="image/webp">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" alt="🦉" width="50" height="50">
