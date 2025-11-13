@@ -40,7 +40,11 @@
 
 <h3 align="center">Languages / Stuffs (That I might know ❓) :</h3>
     <p align="center"> 
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="c" width="40" height="40"/>
+        </a>
+        <img width="25"></img>
+        <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
         </a>
         <img width="25"></img>
