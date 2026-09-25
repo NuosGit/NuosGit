@@ -11,7 +11,7 @@
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f989/512.gif" alt="🦉" width="50" height="50">
     </picture>
 </h1>
-<h3 align="center">A Weeb Devloper , Currently studying at <a href="http://www.kosen.kmitl.ac.th/en">KOSEN KMITL</a> 🏫</h3>
+<h3 align="center">A Weeb Devloper , Currently studying at <a href="https://www.gunma-ct.ac.jp/">Gunma College</a> 🏫</h3>
 <p align="center">
     <a href="https://discord.gg/XRFt8qfm" target="blank"><img align="center" src="https://www.readmecodegen.com/api/social-icon?name=discord" alt="" height="30" width="40" /></a>
     <a href="https://www.instagram.com/nuos_3/" target="blank"><img align="center" src="https://www.readmecodegen.com/api/social-icon?name=instagram" alt="" height="30" width="40" /></a>
@@ -72,8 +72,3 @@
 ###
 
 <hr/>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NuosGit&show_icons=true&line_height=27&theme=maroongold"></img>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuosGit&theme=maroongold&card_width=350&langs_count=3"></img>
-</div>
