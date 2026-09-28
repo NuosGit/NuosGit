@@ -27,7 +27,7 @@
     <img align="right" alt="Rowlet" width="150" src="https://media.tenor.com/YKKFzZ333a8AAAAi/mini-impact-miniimpact.gif"></img>
     <div align="center">
         <p>🌱 I’m currently learning : <strong>Frameworks &amp; API</strong></p>
-        <p>📫 How to reach me : <strong><a href="mailto:aquasoun@gmail.com">aquasoun@gmail.com</a></strong></p>
+        <p>📫 How to reach me : <strong><a href="mailto:contact@nuos-tech.com">contact@nuos-tech.com</a></strong></p>
         <p>⚡ Fun fact : <strong>I don't have fun fact</strong></p>
         <p>💬 Ask me about : <strong>Japanese &amp; Pokemon</strong></p>
         <p>🔥 <strong>I'm Cooked</strong></p>
