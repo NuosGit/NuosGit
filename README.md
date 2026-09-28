@@ -29,7 +29,7 @@
         <p>🌱 I’m currently learning : <strong>Network &amp; CPU Architecture</strong></p>
         <p>📫 How to reach me : <strong><a href="mailto:contact@nuos-tech.com">contact@nuos-tech.com</a></strong></p>
         <p>⚡ Fun fact : <strong>I'm Geometry Dash Player</strong></p>
-        <p>💬 Ask me about : <strong>Japanese &amp; Pokemon</strong></p>
+        <p>💬 Ask me about : <strong>Everything you want</strong></p>
         <p>🔥 <strong>I believe everything happens for a reason</strong></p>
     </div>
 </div>
