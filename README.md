@@ -30,7 +30,7 @@
         <p>📫 How to reach me : <strong><a href="mailto:contact@nuos-tech.com">contact@nuos-tech.com</a></strong></p>
         <p>⚡ Fun fact : <strong>I don't have fun fact</strong></p>
         <p>💬 Ask me about : <strong>Japanese &amp; Pokemon</strong></p>
-        <p>🔥 <strong>I'm Cooked</strong></p>
+        <p>🔥 <strong>I believe everything happens for a reason</strong></p>
     </div>
 </div>
 
